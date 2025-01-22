@@ -3,8 +3,6 @@
 
 # 🔗Link
 
----
-
 - BE - API 개발 
 
 [Bitbucket](https://bitbucket.org/youth-policy-list/ypl-be)
