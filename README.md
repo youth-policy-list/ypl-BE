@@ -5,15 +5,15 @@
 
 ---
 
-BE - API 개발 
+- BE - API 개발 
 
 [Bitbucket](https://bitbucket.org/youth-policy-list/ypl-be)
 
-BE - 스케줄러 개발
+- BE - 스케줄러 개발
 
 [Bitbucket](https://bitbucket.org/youth-policy-list/ypl-scheduler/src/main/)
 
-App Store
+- App Store
 
 [‎청정리 - 청년 정책 리스트](https://apps.apple.com/kr/app/%EC%B2%AD%EC%A0%95%EB%A6%AC-%EC%B2%AD%EB%85%84-%EC%A0%95%EC%B1%85-%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6448850043)
 
